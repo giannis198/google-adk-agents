@@ -5,6 +5,15 @@
 .env.test.local
 .env.production.local
 
+# Virtual environments
+myenv/
+venv/
+env/
+ENV/
+.venv/
+.env/
+.ENV/
+
 # Python
 __pycache__/
 *.py[cod]
